@@ -1,6 +1,6 @@
 name: CICD pipeline for my node app
 
-on:
+#on:
   push:
     branches: [main]
   pull_request:
